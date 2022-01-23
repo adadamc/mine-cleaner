@@ -51,23 +51,23 @@ After using flag mode, you can go back into bomb mode by clicking the `Bomb Mode
 In the below image:\
 **missing tiles**: no bombs are touching the tile\
 **tiles with text**: the number displayed is the amount of touching tiles with bombs (diagonal tiles count)\
-**purple tiles**: marked as bombs using flag mode, you can un-mark these in flag mode\
+**purple tiles**: marked as bombs using flag mode, you can un-mark these in flag mode
 
 ![What a typical game may look like while playing](resources/mineCleanerGame.png)
 
 Upon losing the game the following screen will appear and this info can be gathered:\
 **brightest red tile**: the bomb you clicked that caused you to lose the game\
 **next brightest red tiles**: bombs in the game that you did not flag or click\
-**least bright red tiles**: tiles not clicked that are not bombs\
+**least bright red tiles**: tiles not clicked that are not bombs
 
 **green tiles**: tiles that you marked in flag mode correctly (are bombs)\
-**yellow tiles**: tiles that you marked in flag mode incorrectly (are not bombs)\
+**yellow tiles**: tiles that you marked in flag mode incorrectly (are not bombs)
 
-The time the game took is displayed in the top middle of the screen. Click the `Return` button below the timer to go back to the main menu.\
+The time the game took is displayed in the top middle of the screen. Click the `Return` button below the timer to go back to the main menu.
 
 ![What is displayed after losing a game](resources/lostGame.png)
 
-Upon winning a simple win screen will appear. The time it took to win will be displayed in minutes, in the following example it took 6 seconds to win. Click the `Back to Main Menu` button to return to the menu.\
+Upon winning a simple win screen will appear. The time it took to win will be displayed in minutes, in the following example it took 6 seconds to win. Click the `Back to Main Menu` button to return to the menu.
 
 ![What is displayed after winning a game](resources/winScreen.png)
 
