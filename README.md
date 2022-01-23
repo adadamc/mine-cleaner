@@ -27,12 +27,12 @@ Upon running the game you will be greeted with two options. You may play the gam
 ### Settings
 The settings menu provides some basic options for the game.
 
-The `Dark Theme` and `Light Theme` button allows you to change the theme of the graphical interface. Below are some comparisons.
+The `Dark Theme` and `Light Theme` button allows you to change the theme of the graphical interface. Below are some comparisons.\
 ![The settings menu in light theme and dark theme](resources/settingsMenuComparison.png)
 ![The size and difficulty selection menu in light theme and dark theme](resources/sizeSelectComparison.png)
 ![The game interface in light theme and dark theme](resources/inGameComparison.png)
 
-The `Safety` button allows you to toggle the safety mode setting. When enabled, clicking a bomb on your first turn will remove that bomb and allow you to continue the game. This setting prevents the user from losing on the first turn. When enabled and the first click is on a bomb, the count in the top middle of the screen (above the `Flag Mode` button) will be updated to reflect this. The tile will also display the number of touching bombs in green as shown below.
+The `Safety` button allows you to toggle the safety mode setting. When enabled, clicking a bomb on your first turn will remove that bomb and allow you to continue the game. This setting prevents the user from losing on the first turn. When enabled and the first click is on a bomb, the count in the top middle of the screen (above the `Flag Mode` button) will be updated to reflect this. The tile will also display the number of touching bombs in green as shown below.\
 ![Green text appears when you click a bomb on the first turn with safety mode enabled](resources/greenTile.png)
 
 ### Gameplay
@@ -48,26 +48,26 @@ You can use the numbers on tiles to help you determine if a tile is a bomb or no
 
 After using flag mode, you can go back into bomb mode by clicking the `Bomb Mode` button. If you are sure a tile is not a bomb or have to guess due to lack of conclusive evidence, you can click another tile to get more information.
 
-In the below image:
-**missing tiles**: no bombs are touching the tile
-**tiles with text**: the number displayed is the amount of touching tiles with bombs (diagonal tiles count)
-**purple tiles**: marked as bombs using flag mode, you can un-mark these in flag mode
+In the below image:\
+**missing tiles**: no bombs are touching the tile\
+**tiles with text**: the number displayed is the amount of touching tiles with bombs (diagonal tiles count)\
+**purple tiles**: marked as bombs using flag mode, you can un-mark these in flag mode\
 
 ![What a typical game may look like while playing](resources/mineCleanerGame.png)
 
-Upon losing the game the following screen will appear and this info can be gathered:
-**brightest red tile**: the bomb you clicked that caused you to lose the game
-**next brightest red tiles**: bombs in the game that you did not flag or click
-**least bright red tiles**: tiles not clicked that are not bombs
+Upon losing the game the following screen will appear and this info can be gathered:\
+**brightest red tile**: the bomb you clicked that caused you to lose the game\
+**next brightest red tiles**: bombs in the game that you did not flag or click\
+**least bright red tiles**: tiles not clicked that are not bombs\
 
-**green tiles**: tiles that you marked in flag mode correctly (are bombs)
-**yellow tiles**: tiles that you marked in flag mode incorrectly (are not bombs)
+**green tiles**: tiles that you marked in flag mode correctly (are bombs)\
+**yellow tiles**: tiles that you marked in flag mode incorrectly (are not bombs)\
 
-The time the game took is displayed in the top middle of the screen. Click the `Return` button below the timer to go back to the main menu.
+The time the game took is displayed in the top middle of the screen. Click the `Return` button below the timer to go back to the main menu.\
 
 ![What is displayed after losing a game](resources/lostGame.png)
 
-Upon winning a simple win screen will appear. The time it took to win will be displayed in minutes, in the following example it took 6 seconds to win. Click the `Back to Main Menu` button to return to the menu.
+Upon winning a simple win screen will appear. The time it took to win will be displayed in minutes, in the following example it took 6 seconds to win. Click the `Back to Main Menu` button to return to the menu.\
 
 ![What is displayed after winning a game](resources/winScreen.png)
 
