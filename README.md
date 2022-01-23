@@ -25,12 +25,12 @@ Upon running the game you will be greeted with two options. You may play the gam
 The settings menu provides some basic options for the game.
 
 The `Dark Theme` and `Light Theme` button allows you to change the theme of the graphical interface. Below are some comparisons.
-![The settings menu in light theme and dark theme][resources/settingsMenuComparison.png]
-![The size and difficulty selection menu in light theme and dark theme][resources/sizeSelectComparison.png]
-![The game interface in light theme and dark theme][resources/inGameComparison.png]
+![The settings menu in light theme and dark theme][/resources/settingsMenuComparison.png]
+![The size and difficulty selection menu in light theme and dark theme][/resources/sizeSelectComparison.png]
+![The game interface in light theme and dark theme][/resources/inGameComparison.png]
 
 The `Safety` button allows you to toggle the safety mode setting. When enabled, clicking a bomb on your first turn will remove that bomb and allow you to continue the game. This setting prevents the user from losing on the first turn. When enabled and the first click is on a bomb, the count in the top middle of the screen (above the `Flag Mode` button) will be updated to reflect this. The tile will also display the number of touching bombs in green as shown below.
-![Green text appears when you click a bomb on the first turn with safety mode enabled][resources/greenTile.png]
+![Green text appears when you click a bomb on the first turn with safety mode enabled][/resources/greenTile.png]
 
 ### Gameplay
 Upon clicking the `Mine Cleaner` button you will be taken to the size select screen. Select the grid size, you **may select a size between 3 to 20**. The grid size you enter will be squared to determine the number of tiles. For example, selecting 5 will produce a 5x5 grid consisting of 25 tiles.
@@ -50,7 +50,7 @@ In the below image:
 **tiles with text**: the number displayed is the amount of touching tiles with bombs (diagonal tiles count)
 **purple tiles**: marked as bombs using flag mode, you can un-mark these in flag mode
 
-![What a typical game may look like while playing][resources/mineCleanerGame.png]
+![What a typical game may look like while playing][/resources/mineCleanerGame.png]
 
 Upon losing the game the following screen will appear and this info can be gathered:
 **brightest red tile**: the bomb you clicked that caused you to lose the game
@@ -62,9 +62,9 @@ Upon losing the game the following screen will appear and this info can be gathe
 
 The time the game took is displayed in the top middle of the screen. Click the `Return` button below the timer to go back to the main menu.
 
-![What is displayed after losing a game][resources/lostGame.png]
+![What is displayed after losing a game][/resources/lostGame.png]
 
 Upon winning a simple win screen will appear. The time it took to win will be displayed in minutes, in the following example it took 6 seconds to win. Click the `Back to Main Menu` button to return to the menu.
 
-![What is displayed after winning a game][resources/winScreen.png]
+![What is displayed after winning a game][/resources/winScreen.png]
 
