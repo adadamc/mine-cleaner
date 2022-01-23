@@ -10,9 +10,9 @@
 
 
 ## Requirements and Code Info
-Programming Language: Java
-Version Used / Tested With: openjdk version 17.0.1
-Other Requirements: None
+Programming Language: Java\
+Version Used / Tested With: openjdk version 17.0.1\
+Other Requirements: None\
 Note: To play the game with large grids (for example 20x20) a display with a vertical resolution of 1080 pixels (1080p) or higher is recommended
 
 ## Description
