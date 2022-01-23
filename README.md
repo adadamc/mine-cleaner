@@ -42,7 +42,7 @@ There are also three difficulties to select from. Click the `Easy`, `Medium`, or
 
 Upon selecting the grid size and difficulty click the `Submit` button.
 
-When the game starts click on a tile. If the tile becomes invisible that means there are 0 bombs touching it, the tiles touching will either be removed and this process will continue (if they also have no bombs touching) or display a number indicating the amount of bombs touching that tile. If there are bombs touching the tile you select a number will appear indicating the amount of bombs touching.
+When the game starts click on a tile. If the tile becomes invisible that means there are 0 bombs touching it, the tiles touching will either be removed and this process will continue (if they also have no bombs touching) or display a number indicating the amount of bombs touching that tile. If there are bombs touching the tile you select, a number will appear indicating the amount of bombs touching.
 
 You can use the numbers on tiles to help you determine if a tile is a bomb or not. If you believe a tile is a bomb you can enable `Flag Mode` in the top middle of the screen and click on the tile to mark it as such. The tile will become purple, the bombs left text will update and clicking that tile with bomb mode will not do anything preventing you from losing the game accidently.
 
